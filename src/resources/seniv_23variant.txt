@@ -1,0 +1,6 @@
+Parameter: COEFFICIENT DELL ASUS HP LENOVO IMAC
+Memory_capacity: 0.20 10 8 8 8 10
+Price: 0.25 9 6 6 7 10
+Battery_capacity: 0.15 8 5 5 7 10
+Video_graphics: 0.20 9 8 4 10 8
+CPU_speed: 0.20 8 9 8 8 10
